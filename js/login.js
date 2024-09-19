@@ -9,7 +9,7 @@ document.getElementById('button-login').addEventListener('click', function(event
 
 
     //  this not the good way 
-    if(phoneNumber === '5' && pinNumber=== '1234'){
+    if(phoneNumber === '01931175251' && pinNumber=== '1234'){
         console.log('You are logged in')
         window.location.href ='./home.html'
     }else{
